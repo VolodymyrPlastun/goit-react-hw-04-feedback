@@ -1,0 +1,7 @@
+.title {
+  margin-bottom: 20px;
+}
+
+.StatisticsItem:not(:last-child) {
+  margin-bottom: 10px;
+}
